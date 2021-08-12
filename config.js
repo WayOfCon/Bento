@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'Conway',
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: true,
 
   // Greetings
